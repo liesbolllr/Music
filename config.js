@@ -3,8 +3,8 @@
 module.exports = {
   TOKEN: "",
   language: "en",
-  ownerID: ["1004206704994566164", ""], 
-  mongodbUri : "",
+  ownerID: ["751055793893146624", ""], 
+  mongodbUri : "mongodb+srv://DarkMooN:Dragon95279853@musicbot.i1rbw.mongodb.net/?retryWrites=true&w=majority&appName=musicbot",
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
